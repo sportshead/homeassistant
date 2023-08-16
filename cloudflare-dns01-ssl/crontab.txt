@@ -1,0 +1,1 @@
+0 0 * * * /acme.sh/acme.sh --cron --home "/data/acme.sh" > /dev/null

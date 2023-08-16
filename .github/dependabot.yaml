@@ -1,0 +1,8 @@
+# https://github.com/home-assistant/addons-example/blob/ac0774c7970b6dc370e453cfa0ef8749c731b907/.github/dependabot.yaml
+version: 2
+updates:
+    - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+        interval: weekly
+        time: "06:00"
