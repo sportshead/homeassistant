@@ -11,7 +11,7 @@ This repository contains the following add-ons
 ![Supports i386 Architecture][i386-no]
 [![Builder](https://github.com/sportshead/homeassistant/actions/workflows/builder.yaml/badge.svg)](https://github.com/sportshead/homeassistant/actions/workflows/builder.yaml)
 
-Uses acme.sh and the Cloudflare API in order to generate an SSL certificate. 
+Uses [acme.sh](https://acme.sh) and the [Cloudflare API](https://developers.cloudflare.com/api/dns) in order to generate an SSL certificate. 
 
 [aarch64-yes]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-yes]: https://img.shields.io/badge/amd64-yes-green.svg
