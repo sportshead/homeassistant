@@ -1,6 +1,6 @@
 name: "Cloudflare DNS-01 SSL"
 description: "Uses Cloudflare's DNS api to generate an SSL certificate"
-version: "1.0.0"
+version: "1.1.0"
 slug: "cloudflare-dns01-ssl"
 init: false
 arch:

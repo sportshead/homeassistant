@@ -1,5 +1,5 @@
 # cloudflare-dns01-ssl
-Uses acme.sh and the Cloudflare API in order to generate an SSL certificate. Add the following to your homeassistant configuration:
+Uses [acme.sh](https://acme.sh) and the [Cloudflare API](https://developers.cloudflare.com/api/dns) in order to generate an SSL certificate. Add the following to your homeassistant configuration:
 ```yaml
 http:
     ssl_certificate: /ssl/fullchain.pem
